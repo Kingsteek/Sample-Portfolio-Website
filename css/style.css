@@ -1,0 +1,397 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Roboto+Mono:wght@500&family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;600&family=Roboto+Mono:wght@500&family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@300;800&display=swap');
+
+img.logo {
+    position: fixed;
+    width: 200px;
+    top: -4%;
+    left: -2%;
+}
+
+.hi {
+    position: fixed;
+    font-family: 'Inter', sans-serif;
+    font-size: 56pt;
+    top: -2%;
+    right: 49%;
+}
+
+.Iam{
+    position: fixed;
+    font-family: 'Inter', sans-serif;
+    font-size: 42pt;
+    top: 7%;
+    right: 48.8%;
+
+}
+
+.intro{
+    position: fixed;
+    font-family: 'Inter', sans-serif;
+    font-size: 18pt;
+    top: 17.5%;
+    right: 33%;
+}
+
+.welcome {
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 160pt;
+    color: #D1511D;
+    right: -109%;
+    top: 40%;
+    position: absolute;
+    margin: 0;
+    text-align: center;
+}
+
+.course {
+    position: fixed;
+    font-family: 'Inter', sans-serif;
+    font-size: 24pt;
+    top: 62%;
+    right: 12%;
+
+}
+
+.check {
+    position: fixed;
+    font-family: 'Inter', sans-serif;
+    font-size: 17pt;
+    top: 80%;
+    right: 2%;
+}
+
+.links ul {
+    position: fixed;
+    bottom: 0;
+    list-style-type: none;
+    overflow: hidden;
+    padding-left: 7%;
+    
+}
+.links li {
+    float: left;
+}
+
+.links li a {
+    display: block;
+    margin: 0%;
+    margin-bottom: 0%;
+    color: black;
+    text-decoration: underline;
+    font-size: 24pt;
+    font-family: 'Inter', sans-serif;
+    margin-right: 200px;
+    
+}
+
+.links li a:hover {
+    background-color: white;
+    color: #D1511D;
+}
+
+nav ul {
+    padding: 56;
+    margin: 56;
+    list-style-type: none;
+    background-color: white;
+    overflow: hidden;
+    padding-left: 60%;
+
+    
+}
+nav li {
+    float: left;
+}
+
+nav li a {
+    font-family: 'Roboto';
+    display: block;
+    color: black;
+    text-align: right;
+    padding: 40px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: white;
+    color: gray;
+}
+
+article {
+    font-family: 'Roboto';
+}
+
+
+.my {
+    font-family: 'Epilogue', sans-serif;
+    font-size: 150px;
+    color: #2D2C2C;
+    position: absolute;
+    text-align: center;
+    top: 22%;
+    left: 15%;
+
+}
+
+.home {
+    font-family: 'Epilogue', sans-serif;
+    font-size: 150px;
+    color: #2D2C2C;
+    position: absolute;
+    text-align: center;
+    top: 38%;
+    left: 15%;
+    
+}
+
+.mya {
+    font-family: 'Epilogue', sans-serif;
+    font-size: 150px;
+    color: #2D2C2C;
+    position: absolute;
+    text-align: center;
+    top: 22%;
+    left: 15%;
+    
+}
+
+.academic {
+    font-family: 'Epilogue', sans-serif;
+    font-size: 150px;
+    color: #2D2C2C;
+    position: absolute;
+    text-align: center;
+    top: 38%;
+    left: 15%;
+}
+
+
+img.ProfilePic {
+    padding-left: 10pt;
+    padding-bottom: 10pt;
+    margin-left: 620pt;
+    margin-bottom: 20pt;
+    float: left;
+    width:250px;
+    height:250px;
+    position: absolute;
+    top: 35%;
+    border-radius: 124px;
+    filter: grayscale(100%);
+    
+}
+
+.about {
+    background-color: #2D2C2C;
+    font-family: 'Epilogue', sans-serif;
+    color: white;
+    padding: 5%;
+    margin-left: -1%;
+    position: absolute;
+    text-align: center;
+    top: 95%;
+
+}
+
+footer{
+    font-family: 'Epilogue';
+    position: absolute;
+    top: 160%;
+    left: 0;
+    right: 0%;
+    background-color: white;
+    color: #2D2C2C;
+    text-align: center;
+}
+
+img.footerlogo {
+    position: absolute;
+    top: -85%;
+    width: 100px;
+    left: 47%;
+}
+
+
+.units {
+    width: 1255px;
+    border: 45px solid #2D2C2C;
+    padding: 20px;
+    margin: 20px;
+    font-family: 'Roboto';
+    position: absolute;
+    text-align: center;
+    top: 95%;
+    background-color: #2D2C2C;
+    color: white;
+    
+}
+
+table, th, td {
+    border: 1px solid white;
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 1255px;
+}
+
+.SportList {
+    padding: 20px;
+    margin: 20px;
+    background-color: #2D2C2C;
+    border-radius: 25px;
+    color: white;
+    font-family: 'Epilogue', sans-serif;
+    position: absolute;
+    text-align: center;
+    top: 95%;
+    left: 14%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+    
+
+}
+
+.MusicList {
+    padding: 7px;
+    margin: 7px;
+    background-color: #2D2C2C;
+    border-radius: 25px;
+    color: white;
+    font-family: 'Epilogue', sans-serif;
+    font-size: 13.45px;
+    position: absolute;
+    text-align: center;
+    top: 97%;
+    left: 24.85%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    
+
+}
+
+.ShowList {
+    padding: 20px;
+    margin: 20px;
+    background-color: #2D2C2C;
+    border-radius: 25px;
+    color: white;
+    font-family: 'Epilogue', sans-serif;
+    position: absolute;
+    text-align: center;
+    top: 95%;
+    left: 47.35%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    
+    
+}
+
+.MovieList {
+    padding: 20px;
+    margin: 20px;
+    background-color: #2D2C2C;
+    border-radius: 25px;
+    color: white;
+    font-family: 'Epilogue', sans-serif;
+    position: absolute;
+    text-align: center;
+    top: 95%;
+    left: 59.75%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ 
+    
+    
+}
+
+
+.contact {
+
+    background-color: #2D2C2C;
+    font-family: 'Epilogue', sans-serif;
+    color: white;
+    width: 103%;
+    left:-1%;
+  
+    position: absolute;
+    text-align: center;
+    top: 95%;
+
+
+}
+
+.map {
+
+    border-radius: 20px;
+    width: 600px;
+    height: 450px; 
+    border: 0; 
+    position: absolute;
+    text-align: center;
+    top: 114%;
+    left: 30%;
+
+}
+
+.contactfooter {
+
+    font-family: 'Epilogue';
+    position: absolute;
+    top: 180%;
+    left: 0;
+    right: 0%;
+    background-color: white;
+    color: #2D2C2C;
+    text-align: center;
+
+}
+
+.academicfooter {
+
+    font-family: 'Epilogue';
+    position: absolute;
+    top: 155%;
+    left: 0;
+    right: 0%;
+    background-color: white;
+    color: #2D2C2C;
+    text-align: center;
+
+}
+
+img.academicfooter {
+
+    position: absolute;
+    top: -85%;
+    width: 100px;
+    left: 47%;
+
+}
+
+img.contactfooterlogo {
+    position: absolute;
+    top: -85%;
+    width: 100px;
+    left: 47%;
+}
+
+.subhead {
+    font-family: 'Roboto';
+    font-size: 18pt;
+    
+
+}
+
+.h4{
+    font-family: 'Epilogue', sans-serif;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    
+}
